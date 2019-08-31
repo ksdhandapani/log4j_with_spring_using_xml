@@ -1,0 +1,4 @@
+INFO    2019-08-31 07:44:29,569 [main] com.sakdd.logging.App  - It is info
+ERROR   2019-08-31 07:44:29,571 [main] com.sakdd.logging.App  - It is error
+DEBUG   2019-08-31 07:44:29,571 [main] com.sakdd.logging.App  - It is debug
+FATAL   2019-08-31 07:44:29,571 [main] com.sakdd.logging.App  - It is fatal
